@@ -1,0 +1,143 @@
+Category;Name of the gene;RNASeq;Microarray
+
+Vestigial Like Family Member 3;VGLL3;25;44
+Charged Multivesicular Body Protein 2B;CHMP2B;42;44
+POU Class 1 Homeobox 1;POU1F1;2,;0,
+5-Hydroxytryptamine Receptor 1F;HTR1F;6,;3,
+CGG Triplet Repeat Binding Protein 1;CGGBP1;43;49
+Zinc Finger Protein 654;ZNF654;23;20
+Solute Carrier Family 12 Member 8;SLC12A8;10;11
+Zinc Finger Protein 148;ZNF148;22;26
+Sorting Nexin 4;SNX4;35;38
+Oxysterol Binding Protein Like 11;OSBPL11;22;27
+Leishmanolysin Like Peptidase;LMLN;16;11
+Ribosomal Protein L35a;RPL35A;15;26
+IQ Motif Containing G;IQCG;15;29
+Leucine Rich Repeats And Calponin Homology Domain Containing 3;LRCH3;23;28
+Forty-Two-Three Domain Containing 1;FYTTD1;39;55
+Mucin 20, Cell Surface Associated;MUC20;9,;14
+Mucin 4, Cell Surface Associated;MUC4;10;2,
+Tyrosine Kinase Non Receptor 2;TNK2;44;27
+Transferrin Receptor;TFRC;32;44
+Zinc Finger DHHC-Type Palmitoyltransferase 19;ZDHHC19;5,;1,
+Solute Carrier Family 51 Subunit Alpha;SLC51A;9,;Br
+Phosphate Cytidylyltransferase 1A, Choline;PCYT1A;23;50
+Transmembrane 4 L Six Family Member 19;TM4SF19;7,;28
+UBX Domain Protein 7;UBXN7;24;27
+Ring Finger Protein 168;RNF168;26;30
+Single-Pass Membrane Protein With Coiled-Coil Domains 1;SMCO1;2,;Br
+WD Repeat Domain 53;WDR53;20;28
+F-Box Protein 45;FBXO45;15;20
+Negative Regulator Of Reactive Oxygen Species;NRROS;20;Br
+Centrosomal Protein 19;CEP19;10;10
+Phosphatidylinositol Glycan Anchor Biosynthesis Class X;PIGX;20;32
+P21 (RAC1) Activated Kinase 2;PAK2;41;43
+SUMO Specific Peptidase 5;SENP5;26;26
+Nuclear Cap Binding Protein Subunit 2;NCBP2;44;58
+Phosphatidylinositol Glycan Anchor Biosynthesis Class Z;PIGZ;22;24
+Receptor Transporter Protein 2;RTP2;0.;0,
+Somatostatin;SST;7,;0,
+Receptor Transporter Protein 4;RTP4;16;15
+MBL Associated Serine Protease 1;MASP1;9,;18
+Receptor Transporter Protein 1;RTP1;1,;0.
+ST6 Beta-Galactoside Alpha-2,6-Sialyltransferase 1;ST6GAL1;31;32
+Adiponectin, C1Q And Collagen Domain Containing;ADIPOQ;13;22
+Replication Factor C Subunit 4;RFC4;21;27
+Eukaryotic Translation Initiation Factor 4A2;EIF4A2;11;12
+Kininogen 1;KNG1;1,;0.
+Histidine Rich Glycoprotein;HRG;1,;0.
+Fetuin B;FETUB;2,;1,
+Alpha 2-HS Glycoprotein;AHSG;2,;4,
+DnaJ Heat Shock Protein Family (Hsp40) Member B11;DNAJB11;47;16
+TBCC Domain Containing 1;TBCCD1;23;17
+Crystallin Gamma S;CRYGS;18;13
+Diacylglycerol Kinase Gamma;DGKG;9,;7,
+ETS Variant Transcription Factor 5;ETV5;24;22
+Insulin Like Growth Factor 2 MRNA Binding Protein 2;IGF2BP2;19;13
+SUMO Specific Peptidase 2;SENP2;29;39
+RNA Polymerase II, I And III Subunit H;POLR2H;46;50
+Chloride Voltage-Gated Channel 2;CLCN2;15;6,
+Family With Sequence Similarity 131 Member A;FAM131A;18;20
+Eukaryotic Translation Initiation Factor 4 Gamma 1;EIF4G1;74;84
+Proteasome 26S Subunit Ubiquitin Receptor, Non-ATPase 2;PSMD2;60;68
+Endothelin Converting Enzyme 2;ECE2;6,;8,
+Calcium/Calmodulin Dependent Protein Kinase II Inhibitor 2;CAMK2N2;2,;2,
+ALG3 Alpha-1,3- Mannosyltransferase;ALG3;38;33
+ATP Binding Cassette Subfamily F Member 3;ABCF3;45;39
+Adaptor Related Protein Complex 2 Subunit Mu 1;AP2M1;91;11
+Dishevelled Segment Polarity Protein 3;DVL3;54;33
+Eukaryotic Translation Initiation Factor 2B Subunit Epsilon;EIF2B5;45;38
+ATP Binding Cassette Subfamily C Member 5;ABCC5;25;22
+Presenilin Associated Rhomboid Like;PARL;51;64
+MAP6 Domain Containing 1;MAP6D1;10;8,
+YEATS Domain Containing 2;YEATS2;27;17
+Kelch Like Family Member 24;KLHL24;28;40
+Kelch Like Family Member 6;KLHL6;9,;9,
+MCF.2 Cell Line Derived Transforming Sequence-Like 2;MCF2L2;4,;3,
+UDP-GlcNAc:BetaGal Beta-1,3-N-Acetylglucosaminyltransferase 5;B3GNT5;5,;25
+Lysosomal Associated Membrane Protein 3;LAMP3;6,;6,
+Methylcrotonyl-CoA Carboxylase Subunit 1;MCCC1;33;39
+Defective In Cullin Neddylation 1 Domain Containing 1;DCUN1D1;19;42
+ATPase Phospholipid Transporting 11B (Putative);ATP11B;28;28
+TRAF2 And NCK Interacting Kinase;TNIK;13;11
+Solute Carrier Family 2 Member 2;SLC2A2;0.;0,
+Eukaryotic Translation Initiation Factor 5A2;EIF5A2;13;17
+Ribosomal Protein L22 Like 1;RPL22L1;33;64
+Solute Carrier Family 7 Member 14;SLC7A14;2,;0.
+Claudin 11;CLDN11;29;29
+SKI Like Proto-Oncogene;SKIL;25;30
+Protein Kinase C Iota;PRKCI;28;25
+Polyhomeotic Homolog 3;PHC3;17;28
+G Protein-Coupled Receptor 160;GPR160;17;21
+SEC62 Homolog, Preprotein Translocation Factor;SEC62;45;15
+Sterile Alpha Motif Domain Containing 7;SAMD7;0.;0,
+Leucine Rich Repeat Containing 31;LRRC31;3,;0,
+Leucine Rich Repeats And IQ Motif Containing 4;LRRIQ4;2,;2,
+Leucine Rich Repeat Containing 34;LRRC34;12;19
+Myoneurin;MYNN;22;21
+Actin Related Protein T3;ACTRT3;10;Br
+Short Stature Homeobox 2;SHOX2;21;20
+Ventricular Zone Expressed PH Domain Containing 1;VEPH1;8,;6,
+Pentraxin 3;PTX3;65;10
+Cyclin L1;CCNL1;75;70
+Leucine, Glutamate And Lysine Rich 1;LEKR1;4,;2,
+TCDD Inducible Poly(ADP-Ribose) Polymerase;TIPARP;32;31
+Signal Sequence Receptor Subunit 3;SSR3;54;81
+RAP2B, Member Of RAS Oncogene Family;RAP2B;19;25
+Purinergic Receptor P2Y1;P2RY1;6,;4,
+Muscleblind Like Splicing Regulator 1;MBNL1;55;80
+Succinate Receptor 1;SUCNR1;7,;18
+Trefoil Factor 3;TFF3;41;Br
+Trefoil Factor 2;TFF2;4,;Br
+Trefoil Factor 1;TFF1;18;Br
+Transmembrane Serine Protease 3;TMPRSS3;17;Br
+Ubiquitin Associated And SH3 Domain Containing A;UBASH3A;5,;Br
+Radial Spoke Head Component 1;RSPH1;10;Br
+Solute Carrier Family 37 Member 1;SLC37A1;19;Br
+Phosphodiesterase 9A;PDE9A;24;Br
+WD Repeat Domain 4;WDR4;18;Br
+NADH:Ubiquinone Oxidoreductase Subunit V3;NDUFV3;31;Br
+PBX/Knotted 1 Homeobox 1;PKNOX1;19;Br
+Adenosine Deaminase RNA Specific B1;ADARB1;24;25
+Protein O-Fucosyltransferase 2;POFUT2;34;20
+Collagen Type XVIII Alpha 1 Chain;COL18A1;68;50
+Solute Carrier Family 19 Member 1;SLC19A1;15;20
+Poly(RC) Binding Protein 3;PCBP3;11;24
+Collagen Type VI Alpha 1 Chain;COL6A1;15;11
+Collagen Type VI Alpha 2 Chain;COL6A2;16;12
+Formimidoyltransferase Cyclodeaminase;FTCD;5,;3,
+Spermatogenesis And Centriole Associated 1 Like;SPATC1L;20;Br
+Lanosterol Synthase;LSS;49;45
+Minichromosome Maintenance Complex Component 3 Associated Protein;MCM3AP;44;41
+YbeY Metalloendoribonuclease;YBEY;25;24
+Pericentrin;PCNT;21;21
+Disco Interacting Protein 2 Homolog A;DIP2A;31;25
+S100 Calcium Binding Protein B;S100B;56;76
+Protein Arginine Methyltransferase 2;PRMT2;42;54
+F-Box Protein 25;FBXO25;26;46
+Testis Development Related Protein;TDRP;30;Br
+Deleted In Azoospermia Like;DAZL;1,;0.
+Phospholipase C Like 2;PLCL2;21;21
+TBC1 Domain Family Member 5;TBC1D5;26;37
+SATB Homeobox 1;SATB1;23;28
+Potassium Voltage-Gated Channel Subfamily H Member 8;KCNH8;10;4,
